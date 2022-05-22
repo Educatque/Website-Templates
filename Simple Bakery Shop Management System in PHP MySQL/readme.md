@@ -67,4 +67,4 @@ Browse the Bakery Shop Management System in a browser. i.e. http://localhost/bsm
 **Username: admin
 Password: admin123**
 
-
+# [Download](https://educatque.github.io/Website-Templates/Simple%20Bakery%20Shop%20Management%20System%20in%20PHP%20MySQL/bsms_0.zip)
